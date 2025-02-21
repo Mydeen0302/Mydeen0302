@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mydeen0302
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning DSA 
+- 🌱 I’m currently learning DSA and javascript
 - 💞️ I’m looking to collaborate on a webiste like a kind of laundry management system
 - 📫 How to reach me mydeen0302@gmail.com
 - 😄 Pronouns: ...
